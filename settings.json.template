@@ -47,7 +47,7 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 11116,
+    "port": 19699,
     "user": "finalrpc",
     "pass": "SomeOtherWorldlyPasswordGoesHere1"
   },

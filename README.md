@@ -5,7 +5,7 @@ An open source block explorer written in node.js.
 
 ### See it in action
 
-*  [Final (FINAL)](http://final.blockcrawlers.xyz/)
+*  [Final (FINAL)](INPUT URL HERE)
 
 
 *note: If you would like your instance mentioned here contact me*
